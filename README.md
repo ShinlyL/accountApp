@@ -17,22 +17,20 @@ Java、Android、SQLite
 
    <h3>以下是部分应用功能界面介绍</h3>
 
-![img](file:////./rmd_img/image1.png)
+![img](https://github.com/ShinlyL/accountApp/blob/main/rmd_img/img3.jpg)
 
 <center>图1 记账宝登录界面</center>
 
-![img](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
+![img](https://github.com/ShinlyL/accountApp/blob/main/rmd_img/img1.jpg)
 
 <center>图2 记账宝注册界面</center>
 
-![img](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg) ![img](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg) ![img](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg)
+![img](https://github.com/ShinlyL/accountApp/blob/main/rmd_img/img2.jpg) ![img](https://github.com/ShinlyL/accountApp/blob/main/rmd_img/img4.jpg) ![img](https://github.com/ShinlyL/accountApp/blob/main/rmd_img/img5.jpg)
 
 ​              图3 记账显示界面                                   图4 记账统计页面                                     图5 用户信息页面
 
-![img](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)   ![img](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
-
+![img](https://github.com/ShinlyL/accountApp/blob/main/rmd_img/img6.jpg)
 <center>图6 记账按钮点击事件触发及输入栏效果展示
 
-![img](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg)   ![img](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image008.jpg)
-
+![img](https://github.com/ShinlyL/accountApp/blob/main/rmd_img/img7.jpg)
 <center>图7 统计记账信息展示
