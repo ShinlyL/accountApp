@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.administrator.accountbook.MainActivity">
+
+    <TextView
+        android:id="@+id/main_tv_title"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="@string/app_name"
+        android:background="@color/lightyellow"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@color/lightblue"/>
+    <RadioGroup
+        android:id="@+id/main_rg"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:orientation="horizontal"
+        android:background="@color/lightyellow"
+        android:layout_alignParentBottom="true"
+        android:padding="5dp">
+        <RadioButton
+            android:id="@+id/main_rb_book"
+            style="@style/main_rb"
+            android:drawableTop="@drawable/main_rb_book"
+            android:text="@string/label_book"
+            android:checked="true" />
+        <RadioButton
+            android:id="@+id/main_rb_tj"
+            style="@style/main_rb"
+            android:drawableTop="@drawable/main_rb_tj"
+            android:text="@string/label_tj"
+            android:checked="false" />
+        <RadioButton
+            android:id="@+id/main_rb_me"
+            style="@style/main_rb"
+            android:drawableTop="@drawable/main_rb_me"
+            android:text="@string/lable_me"
+            android:checked="false" />
+    </RadioGroup>
+    <LinearLayout
+        android:id="@+id/main_center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_below="@+id/main_tv_title"
+        android:layout_above="@+id/main_rg">
+    </LinearLayout>
+</RelativeLayout>

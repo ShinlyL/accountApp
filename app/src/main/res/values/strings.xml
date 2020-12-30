@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">记账宝</string>
+    <string name="label_book">账本</string>
+    <string name="label_tj">统计</string>
+    <string name="lable_me">我的</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Restaurant">餐饮</string>
+    <string name="Pet">宠物</string>
+    <string name="Parents">父母</string>
+    <string name="Shopping">购物</string>
+    <string name="Traffic">交通</string>
+    <string name="OccupyHome">居家</string>
+    <string name="Human">人情</string>
+    <string name="Psychiatry">医教</string>
+
+
+    <string name="Reimburse">报销</string>
+    <string name="Wage">工资</string>
+    <string name="RedPacket">红包</string>
+    <string name="PartTime">兼职</string>
+    <string name="Bonus">奖金</string>
+    <string name="Investment">投资</string>
+
+
+</resources>
